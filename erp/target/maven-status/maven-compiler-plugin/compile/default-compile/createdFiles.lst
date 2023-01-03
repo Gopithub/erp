@@ -1,0 +1,6 @@
+solutions\pratnya\erp\resources\ErpIndividual.class
+solutions\pratnya\erp\resources\ErpResource.class
+solutions\pratnya\erp\db\ErpIndividualDao.class
+solutions\pratnya\erp\ErpConfiguration.class
+solutions\pratnya\erp\ErpApplication.class
+solutions\pratnya\erp\db\ErpInterface.class
